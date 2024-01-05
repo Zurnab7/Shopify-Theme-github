@@ -3539,3 +3539,7 @@ ul.list.list-payment{
     width: 170px;
     text-align: center;
 }
+header__menu-item span {
+    color: chartreuse!important;
+}
+
