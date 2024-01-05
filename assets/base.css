@@ -3615,3 +3615,8 @@ ul.list.list-payment {
   width: 170px;
   text-align: center;
 }
+h2.banner__heading.inline-richtext.h1 {
+  color: #0c6866 !important;
+  font-size: 30px !important;
+  text-decoration: line-through !important;
+}
