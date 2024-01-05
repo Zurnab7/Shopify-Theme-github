@@ -3617,6 +3617,7 @@ ul.list.list-payment {
 }
 h2.banner__heading.inline-richtext.h1 {
   color: #0c6866 !important;
-  font-size: 30px !important;
+  font-size: 70px !important;
+  font-weight: bolder !important;
   text-decoration: line-through !important;
 }
