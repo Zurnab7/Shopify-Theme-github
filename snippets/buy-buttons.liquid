@@ -58,6 +58,10 @@
           disabled
           class="product-variant-id"
         >
+        <p class="some-class-you-decide">
+  <label for="custom-engraving">Custom Engraving</label>
+  <input id="custom-engraving" type="text" name="properties[Custom Engraving]">
+</p>
 
         {%- if gift_card_recipient_feature_active -%}
           {%- render 'gift-card-recipient-form', product: product, form: form, section: section -%}
