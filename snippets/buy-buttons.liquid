@@ -79,7 +79,7 @@
  
 {% for product in collection.all_products %}
     {% if product.handle contains 'Gift' %}
-        <h2>sssssssss</h2>
+        {{ product.title }}
     {% endif %}
 {% endfor %}
 
