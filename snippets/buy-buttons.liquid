@@ -78,9 +78,13 @@
 
 
 
-
-<h2>{{ product.title }}</h2>
+{% if collection.handle == 'your-collection-handle' %}
+  <div class="second-description">
+   <h2>{{ product.title }}</h2>
 {{ product.description }}
+  </div>
+{% endif %}
+
 
 
 
