@@ -58,10 +58,17 @@
           disabled
           class="product-variant-id"
         >
-        <p class="some-class-you-decide">
+    
+   {% for collection in product.collections %}
+       {% if collection.handle == 'outlet-cover' %}
+        <div>                             
+          <p class="some-class-you-decide">
   <label for="custom-engraving">NAME</label>
   <input id="custom-engraving" type="text" name="properties[NAME]">
 </p>
+    </div>
+  {% endif %}
+{% endfor %}
 
         {%- if gift_card_recipient_feature_active -%}
           {%- render 'gift-card-recipient-form', product: product, form: form, section: section -%}
