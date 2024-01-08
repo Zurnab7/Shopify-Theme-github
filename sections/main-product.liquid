@@ -96,14 +96,7 @@
                   </h2>
                 </a>
               </div>
-            {% for collection in product.collections %}
-       {% if collection.handle == 'outlet-cover' %}
-        <div>                             
-      <p><input type="text" id="letter" placeholder="Enter up to 6 Letters" name="properties[letter]" /></p>
-    </div>
-  {% endif %}
-{% endfor %}
-
+         
  
             {%- when 'price' -%}
               <div class="no-js-hidden" id="price-{{ section.id }}" role="status" {{ block.shopify_attributes }}>
