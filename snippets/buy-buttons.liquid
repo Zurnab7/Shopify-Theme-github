@@ -76,13 +76,14 @@
 </select>
 
 
- 
-<input for="Gift" type="checkbox" id="vehicle1" name="properties[Gift]">
+   <div>
+         <label for="custom-engraving">Gift</label>
+  <input id="custom-engraving" type="checkbox" name="properties[Gift]">
 <div class="custom_gift" style="width:200px">
   <img src="{{product.featured_media | img_url: 'master' }}"  style="width:100%">
    <h2>{{ product.title }}</h2>
-
 </div>
+         </div>
         
          
 
