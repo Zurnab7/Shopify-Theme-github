@@ -79,7 +79,8 @@
  
 
     <div class="item-single">
-             <input type="checkbox" class="sample-addtocart sample-sets-limit" value="{{ product.selected_or_first_available_variant.id }}" {% for item in cart.items %}{% if item.product.id == product.id %} checked {% endif %} {% endfor %}>
+         <label >Gift</label>
+             <input name="properties[Gift]" type="checkbox" class="sample-addtocart sample-sets-limit" value="{{ product.selected_or_first_available_variant.id }}" {% for item in cart.items %}{% if item.product.id == product.id %} checked {% endif %} {% endfor %}>
            <img src="{{ product.featured_image | img_url: '200x200' }}">
             <h2>{{ product.title }}  </h2>
            </div>
