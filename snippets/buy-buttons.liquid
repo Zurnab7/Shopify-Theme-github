@@ -76,14 +76,15 @@
 </select>
 
 
- <label >Gift</label>
-<select required class="required" id="your-name" name="properties[Gift]"></select>
+ 
+<label required class="required" id="your-name" name="properties[Gift]"></select>
 <div class="custom_gift" style="width:200px">
   <img src="{{product.featured_media | img_url: 'master' }}"  style="width:100%">
    <h2>{{ product.title }}</h2>
 {{ product.description }}
          {{ product.price }}
 </div>
+         </label>
          
 
 
