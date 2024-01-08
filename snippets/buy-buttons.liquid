@@ -77,7 +77,11 @@
 
 
  
-
+{% for product in collection.all_products %}
+    {% if product.handle contains 'your-handle-name' %}
+        <h2>sssssssss</h2>
+    {% endif %}
+{% endfor %}
 
 
          
