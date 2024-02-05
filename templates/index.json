@@ -254,8 +254,9 @@
         "column_PPVrFn": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/sports-removebg-preview.png",
+            "title": "Compact Design",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -281,8 +282,8 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
+        "column_alignment": "center",
+        "background_style": "none",
         "button_label": "Button label",
         "button_link": "",
         "color_scheme": "",
