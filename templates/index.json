@@ -1,1 +1,305 @@
-{"sections":{"image_banner":{"type":"image-banner","blocks":{"heading":{"type":"heading","settings":{"heading":"Browse our latest products","heading_size":"h1"}},"button":{"type":"buttons","settings":{"button_label_1":"Shop all","button_link_1":"shopify:\/\/collections\/all","button_style_secondary_1":true,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading","button"],"settings":{"image":"shopify:\/\/shop_images\/minnie-zhou-0hiUWSi7jvs-unsplash.jpg","image_overlay_opacity":20,"image_height":"medium","desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"scheme-d2c87358-6063-493f-b78b-be4dc29348ff","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"3a916f29-2e4c-4041-afc9-315191a0cce0":{"type":"collection-list","blocks":{"template--21174067822893__3a916f29-2e4c-4041-afc9-315191a0cce0-featured_collection-1":{"type":"featured_collection","settings":{"collection":"baby-gates"}},"template--21174067822893__3a916f29-2e4c-4041-afc9-315191a0cce0-featured_collection-2":{"type":"featured_collection","settings":{"collection":"baby-monitor"}},"template--21174067822893__3a916f29-2e4c-4041-afc9-315191a0cce0-featured_collection-3":{"type":"featured_collection","settings":{"collection":"outlet-cover"}}},"block_order":["template--21174067822893__3a916f29-2e4c-4041-afc9-315191a0cce0-featured_collection-1","template--21174067822893__3a916f29-2e4c-4041-afc9-315191a0cce0-featured_collection-2","template--21174067822893__3a916f29-2e4c-4041-afc9-315191a0cce0-featured_collection-3"],"settings":{"title":"Our Collection","heading_size":"h1","image_ratio":"square","columns_desktop":3,"color_scheme":"scheme-275b909f-185d-4876-8709-c5b525e51889","show_view_all":false,"columns_mobile":"1","swipe_on_mobile":false,"padding_top":0,"padding_bottom":0}},"1bf6893c-08dc-4902-bfe9-abdb48cc5b9a":{"type":"rich-text","blocks":{"template--21174067822893__1bf6893c-08dc-4902-bfe9-abdb48cc5b9a-heading-1":{"type":"heading","settings":{"heading":"Talk about your brand","heading_size":"h1"}},"template--21174067822893__1bf6893c-08dc-4902-bfe9-abdb48cc5b9a-text-1":{"type":"text","settings":{"text":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"}},"template--21174067822893__1bf6893c-08dc-4902-bfe9-abdb48cc5b9a-button-1":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":"","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--21174067822893__1bf6893c-08dc-4902-bfe9-abdb48cc5b9a-heading-1","template--21174067822893__1bf6893c-08dc-4902-bfe9-abdb48cc5b9a-text-1","template--21174067822893__1bf6893c-08dc-4902-bfe9-abdb48cc5b9a-button-1"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"scheme-275b909f-185d-4876-8709-c5b525e51889","full_width":true,"padding_top":40,"padding_bottom":40}},"featured_collection":{"type":"featured-collection","settings":{"title":"Shop All Products","heading_size":"h1","description":"","show_description":false,"description_style":"body","collection":"all","products_to_show":8,"columns_desktop":4,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":false,"color_scheme":"scheme-275b909f-185d-4876-8709-c5b525e51889","image_ratio":"square","image_shape":"default","show_secondary_image":true,"show_vendor":false,"show_rating":false,"enable_quick_add":true,"columns_mobile":"2","swipe_on_mobile":false,"padding_top":44,"padding_bottom":36}},"6213dcbc-c21d-4a34-b451-bec46ef42a14":{"type":"image-with-text","blocks":{"template--21174067822893__6213dcbc-c21d-4a34-b451-bec46ef42a14-heading-1":{"type":"heading","settings":{"heading":"Discover Your Favorite Digital Marketplace","heading_size":"h2"}},"template--21174067822893__6213dcbc-c21d-4a34-b451-bec46ef42a14-text-1":{"type":"text","settings":{"text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","text_style":"body"}},"template--21174067822893__6213dcbc-c21d-4a34-b451-bec46ef42a14-button-1":{"type":"button","settings":{"button_label":"About Us","button_link":"shopify:\/\/pages\/about-us","button_style_secondary":false}}},"block_order":["template--21174067822893__6213dcbc-c21d-4a34-b451-bec46ef42a14-heading-1","template--21174067822893__6213dcbc-c21d-4a34-b451-bec46ef42a14-text-1","template--21174067822893__6213dcbc-c21d-4a34-b451-bec46ef42a14-button-1"],"settings":{"image":"shopify:\/\/shop_images\/istockphoto-912728236-612x612.webp","height":"adapt","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"middle","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"scheme-275b909f-185d-4876-8709-c5b525e51889","image_behavior":"none","mobile_content_alignment":"center","padding_top":0,"padding_bottom":0}},"db7f4251-0553-443d-a97f-8bb5d44ac5cf":{"type":"email-signup-banner","blocks":{"template--21174067822893__db7f4251-0553-443d-a97f-8bb5d44ac5cf-heading-1":{"type":"heading","settings":{"heading":"Opening soon","heading_size":"h1"}},"template--21174067822893__db7f4251-0553-443d-a97f-8bb5d44ac5cf-paragraph-1":{"type":"paragraph","settings":{"text":"<p>Be the first to know when we launch.<\/p>","text_style":"body"}},"template--21174067822893__db7f4251-0553-443d-a97f-8bb5d44ac5cf-email_form-1":{"type":"email_form","settings":{}}},"block_order":["template--21174067822893__db7f4251-0553-443d-a97f-8bb5d44ac5cf-heading-1","template--21174067822893__db7f4251-0553-443d-a97f-8bb5d44ac5cf-paragraph-1","template--21174067822893__db7f4251-0553-443d-a97f-8bb5d44ac5cf-email_form-1"],"settings":{"image":"shopify:\/\/shop_images\/asian-baby-in-living-room-picture-id878706102.webp","image_overlay_opacity":40,"show_background_image":true,"image_height":"small","desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"scheme-d2c87358-6063-493f-b78b-be4dc29348ff","mobile_content_alignment":"center","show_text_below":true}}},"order":["image_banner","3a916f29-2e4c-4041-afc9-315191a0cce0","1bf6893c-08dc-4902-bfe9-abdb48cc5b9a","featured_collection","6213dcbc-c21d-4a34-b451-bec46ef42a14","db7f4251-0553-443d-a97f-8bb5d44ac5cf"]}
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Browse our latest products",
+            "heading_size": "h1"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/minnie-zhou-0hiUWSi7jvs-unsplash.jpg",
+        "image_overlay_opacity": 20,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-d2c87358-6063-493f-b78b-be4dc29348ff",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "3a916f29-2e4c-4041-afc9-315191a0cce0": {
+      "type": "collection-list",
+      "blocks": {
+        "template--21174067822893__3a916f29-2e4c-4041-afc9-315191a0cce0-featured_collection-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "baby-gates"
+          }
+        },
+        "template--21174067822893__3a916f29-2e4c-4041-afc9-315191a0cce0-featured_collection-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "baby-monitor"
+          }
+        },
+        "template--21174067822893__3a916f29-2e4c-4041-afc9-315191a0cce0-featured_collection-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "outlet-cover"
+          }
+        }
+      },
+      "block_order": [
+        "template--21174067822893__3a916f29-2e4c-4041-afc9-315191a0cce0-featured_collection-1",
+        "template--21174067822893__3a916f29-2e4c-4041-afc9-315191a0cce0-featured_collection-2",
+        "template--21174067822893__3a916f29-2e4c-4041-afc9-315191a0cce0-featured_collection-3"
+      ],
+      "settings": {
+        "title": "Our Collection",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "scheme-275b909f-185d-4876-8709-c5b525e51889",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "1bf6893c-08dc-4902-bfe9-abdb48cc5b9a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21174067822893__1bf6893c-08dc-4902-bfe9-abdb48cc5b9a-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--21174067822893__1bf6893c-08dc-4902-bfe9-abdb48cc5b9a-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--21174067822893__1bf6893c-08dc-4902-bfe9-abdb48cc5b9a-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21174067822893__1bf6893c-08dc-4902-bfe9-abdb48cc5b9a-heading-1",
+        "template--21174067822893__1bf6893c-08dc-4902-bfe9-abdb48cc5b9a-text-1",
+        "template--21174067822893__1bf6893c-08dc-4902-bfe9-abdb48cc5b9a-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-275b909f-185d-4876-8709-c5b525e51889",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Shop All Products",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-275b909f-185d-4876-8709-c5b525e51889",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "6213dcbc-c21d-4a34-b451-bec46ef42a14": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21174067822893__6213dcbc-c21d-4a34-b451-bec46ef42a14-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Discover Your Favorite Digital Marketplace",
+            "heading_size": "h2"
+          }
+        },
+        "template--21174067822893__6213dcbc-c21d-4a34-b451-bec46ef42a14-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--21174067822893__6213dcbc-c21d-4a34-b451-bec46ef42a14-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "About Us",
+            "button_link": "shopify:\/\/pages\/about-us",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21174067822893__6213dcbc-c21d-4a34-b451-bec46ef42a14-heading-1",
+        "template--21174067822893__6213dcbc-c21d-4a34-b451-bec46ef42a14-text-1",
+        "template--21174067822893__6213dcbc-c21d-4a34-b451-bec46ef42a14-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/istockphoto-912728236-612x612.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "scheme-275b909f-185d-4876-8709-c5b525e51889",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "db7f4251-0553-443d-a97f-8bb5d44ac5cf": {
+      "type": "email-signup-banner",
+      "blocks": {
+        "template--21174067822893__db7f4251-0553-443d-a97f-8bb5d44ac5cf-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Opening soon",
+            "heading_size": "h1"
+          }
+        },
+        "template--21174067822893__db7f4251-0553-443d-a97f-8bb5d44ac5cf-paragraph-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know when we launch.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--21174067822893__db7f4251-0553-443d-a97f-8bb5d44ac5cf-email_form-1": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--21174067822893__db7f4251-0553-443d-a97f-8bb5d44ac5cf-heading-1",
+        "template--21174067822893__db7f4251-0553-443d-a97f-8bb5d44ac5cf-paragraph-1",
+        "template--21174067822893__db7f4251-0553-443d-a97f-8bb5d44ac5cf-email_form-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/asian-baby-in-living-room-picture-id878706102.webp",
+        "image_overlay_opacity": 40,
+        "show_background_image": true,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-d2c87358-6063-493f-b78b-be4dc29348ff",
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "multicolumn_HbLrWJ": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_yPBYaG": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sports-removebg-preview.png",
+            "title": "Hard Surface",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PPVrFn": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_cUYcFF": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_yPBYaG",
+        "column_PPVrFn",
+        "column_cUYcFF"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "3a916f29-2e4c-4041-afc9-315191a0cce0",
+    "1bf6893c-08dc-4902-bfe9-abdb48cc5b9a",
+    "featured_collection",
+    "6213dcbc-c21d-4a34-b451-bec46ef42a14",
+    "db7f4251-0553-443d-a97f-8bb5d44ac5cf",
+    "multicolumn_HbLrWJ"
+  ]
+}
