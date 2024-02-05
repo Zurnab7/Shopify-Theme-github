@@ -290,6 +290,16 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_y7zHgJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sports-removebg-preview.png",
+            "title": "Column",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -297,7 +307,8 @@
         "column_PPVrFn",
         "column_cUYcFF",
         "column_fdfQwL",
-        "column_xmqN7D"
+        "column_xmqN7D",
+        "column_y7zHgJ"
       ],
       "settings": {
         "title": "Multicolumn",
